@@ -16,7 +16,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/AhnSeoHyeok/portfolioio.io)
+### 1. [포트폴리오](https://github.com/2023-SMHRD-IS-BigData2/isSAFEETY2)
 >나의 프론트엔드 포트폴리오 (핵심 프로젝트)  
 >개발 기간: 2023.11.13 ~ 2023.11.28  
 >  
