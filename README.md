@@ -17,8 +17,8 @@
 
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/AhnSeoHyeok/portfolioio.io)
->나의 프론트엔드 포트폴리오 (개인 프로젝트)  
->개발 기간: 2023.10.01 ~ 2023.11.05  
+>나의 프론트엔드 포트폴리오 (핵심 프로젝트)  
+>개발 기간: 2023.11.13 ~ 2023.11.28  
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
